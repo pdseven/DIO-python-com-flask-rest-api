@@ -30,8 +30,8 @@ def exclui_pessoa():
 
 
 if __name__ == '__main__':
-    # insere_pessoas()
-    consulta_pessoas()
+    insere_pessoas()
+    # consulta_pessoas()
     # altera_pessoa()
-    exclui_pessoa()
+    # exclui_pessoa()
     consulta_pessoas()
